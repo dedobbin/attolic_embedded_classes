@@ -7,3 +7,5 @@ Attolic TrueSTUDIO was used to generate boilerplate. The used setup did alot of 
 Example of all the files the thing spat out can be seen in `example_code_structure`.
 
 The comments in my own code are god-awful. Perhaps i'll go back and make them better, but it's neat seeing them in their pure form.
+
+Note: I don't know how dynamic the code generation from TrueSTUDIO was, the classes were about writing the needed code by hand.
